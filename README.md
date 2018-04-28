@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(April 27th, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Mike Hart)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(For this project I created an application that allows you to enter a city in a search bar and view a ten day forecast for that city.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://mjh15e.github.io/WeatherChannel/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned how to build an application with an Application Programming Interface.)
+2. (Additionally, I learned how to collect data from a server using AJAX code to send an HTTP request.)
+3. (Finally, I furthered my understanding of how applications can communicate with web servers to collect data.)
 
